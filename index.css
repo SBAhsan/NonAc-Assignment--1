@@ -143,3 +143,33 @@ nav ul {
 .explore-sectors h2{
     padding: 20px 0px 20px 0px;
 }
+
+
+/* helping blockchain part */
+
+.help-block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 200px;
+    margin-top: 200px;
+}
+
+.help-box-parent{
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    gap: 50px;
+}
+
+.help-ex-box{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    padding-bottom: 20px;
+}
+
+.help-head p{
+    padding-top: 10px;
+}
