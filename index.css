@@ -108,7 +108,7 @@ nav ul {
 
 .our-clients{
     text-align: center;
-    margin-top: 150px;
+    margin-top: 200px;
 }
 
 .our-clients p{
@@ -120,4 +120,26 @@ nav ul {
     justify-content: center;
     align-items: center;
     gap: 150px;
+}
+
+/* explore part */
+
+.explore{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.explore-para{
+    padding: 20px 0px 20px 0px;
+}
+
+.explore-sectors{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 150px;
+}
+
+.explore-sectors h2{
+    padding: 20px 0px 20px 0px;
 }
