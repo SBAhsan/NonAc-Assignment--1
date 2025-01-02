@@ -173,3 +173,102 @@ nav ul {
 .help-head p{
     padding-top: 10px;
 }
+
+
+/* contact us part */
+
+form{
+    text-align: center;
+}
+
+.btn-message{
+    background-color: rgb(74, 74, 196);
+    padding: 10px 15px 10px 15px;
+    font-size: 20px;
+    border: none;
+    border-radius: 10px;
+}
+
+/* blockchain foundation part */
+
+.foundation{
+    text-align: center;
+    margin-top: 200px;
+}
+
+.foundation p{
+    padding: 20px 0px 30px 0px;
+}
+
+.foundation-card-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+}
+
+.foundation-bg-1{
+    border-radius: 20px;
+    width: 250px;
+    height: 180px;
+    background-image: url('photos/foundation-img-1.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foundation-bg-2{
+    border-radius: 20px;
+    width: 250px;
+    height: 180px;
+    background-image: url('photos/foundation-img-2.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foundation-bg-3{
+    border-radius: 20px;
+    width: 250px;
+    height: 180px;
+    background-image: url('photos/foundation-img-3.jpg');
+    background-repeat: no-repeat;
+    background-size: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.foundation-card{
+    border-radius: 20px;
+    padding: 10px 10px 10px 10px;
+    width: 200px;
+    height: 100px;
+    background-color: rgb(74, 74, 196);
+    /* background-color: rgb(138, 53, 138); */
+    position: relative;
+    margin-top: 150px;
+}
+
+.foundation-card:hover{
+    background-color: rgb(151, 76, 222);
+}
+
+.foundation-card p{
+    padding-bottom: 10px;
+}
+
+.foundation-card a{
+    color: rgba(232, 112, 232, 0.868);
+    text-decoration: none;
+}
+
+/* 
+
+.input-fields button{
+    display: block;
+} */
