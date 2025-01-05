@@ -79,6 +79,7 @@ nav ul {
 .hero img{
     width: 600px;
     height: 400px;
+    border-radius: 20px;
 }
 
 .hero-header {
@@ -289,13 +290,13 @@ form h2{
     height: 20px;
     padding: 10px;
     border: none;
-    border-radius: 10px;
+    border-radius: 50px;
 }
 
 .input-fields textarea{
     padding: 10px;
     border: none;
-    border-radius: 10px;
+    border-radius: 20px;
 }
 
 .btn-message{
@@ -305,4 +306,42 @@ form h2{
     border: none;
     border-radius: 10px;
     width: 180px;
+}
+
+
+/* footer part */
+
+footer{
+    display: flex;
+    justify-content: center;    
+    gap: 100px;
+    padding: 150px 30px 150px 30px;
+}
+
+.footer-b-world{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    padding-right: 50px;
+    font-weight: 800;
+    padding-bottom: 20px;
+}
+
+.footer-icons{
+    padding-top: 20px;
+}
+
+.com-sup{
+    padding-bottom: 20px;
+}
+
+.com-sup-lists li{
+    padding-bottom: 10px;
+}
+
+.footer-email{
+    width: 300px;
+    height: 20px;
+    padding: 10px;
+    border: none;
+    border-radius: 50px;
 }
