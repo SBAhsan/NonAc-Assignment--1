@@ -16,7 +16,6 @@ nav {
     background-color: #60a40d;
     padding-top: 30px;
     padding-bottom: 30px;
-
 }
 
 .block {
@@ -35,7 +34,7 @@ nav {
     font-weight: 800;
 }
 
-.nav-link-btn{
+.nav-link-btn {
     display: flex;
     align-items: center;
     margin-right: 150px;
@@ -72,11 +71,11 @@ nav ul {
     margin: 0px 100px 0px 100px;
 }
 
-.hero-text-btn{
+.hero-text-btn {
     text-align: left;
 }
 
-.hero img{
+.hero img {
     width: 600px;
     height: 400px;
     border-radius: 20px;
@@ -107,16 +106,16 @@ nav ul {
 
 /* our clients part */
 
-.our-clients{
+.our-clients {
     text-align: center;
     margin-top: 200px;
 }
 
-.our-clients p{
+.our-clients p {
     padding: 20px 0px 30px 0px;
 }
 
-.client-logos{
+.client-logos {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -125,30 +124,30 @@ nav ul {
 
 /* explore part */
 
-.explore{
+.explore {
     text-align: center;
     margin-top: 200px;
 }
 
-.explore-para{
+.explore-para {
     padding: 20px 0px 20px 0px;
 }
 
-.explore-sectors{
+.explore-sectors {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 150px;
 }
 
-.explore-sectors h2{
+.explore-sectors h2 {
     padding: 20px 0px 20px 0px;
 }
 
 
 /* helping blockchain part */
 
-.help-block{
+.help-block {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -156,14 +155,14 @@ nav ul {
     margin-top: 200px;
 }
 
-.help-box-parent{
+.help-box-parent {
     display: flex;
     justify-content: left;
     align-items: center;
     gap: 50px;
 }
 
-.help-ex-box{
+.help-ex-box {
     display: flex;
     justify-content: center;
     align-items: center;
@@ -171,30 +170,30 @@ nav ul {
     padding-bottom: 20px;
 }
 
-.help-head p{
+.help-head p {
     padding-top: 10px;
 }
 
 
 /* blockchain foundation part */
 
-.foundation{
+.foundation {
     text-align: center;
     margin-top: 200px;
 }
 
-.foundation p{
+.foundation p {
     padding: 20px 0px 30px 0px;
 }
 
-.foundation-card-container{
+.foundation-card-container {
     display: flex;
     justify-content: center;
     align-items: center;
     gap: 50px;
 }
 
-.foundation-bg-1{
+.foundation-bg-1 {
     border-radius: 20px;
     width: 250px;
     height: 180px;
@@ -206,7 +205,7 @@ nav ul {
     align-items: center;
 }
 
-.foundation-bg-2{
+.foundation-bg-2 {
     border-radius: 20px;
     width: 250px;
     height: 180px;
@@ -218,7 +217,7 @@ nav ul {
     align-items: center;
 }
 
-.foundation-bg-3{
+.foundation-bg-3 {
     border-radius: 20px;
     width: 250px;
     height: 180px;
@@ -230,7 +229,7 @@ nav ul {
     align-items: center;
 }
 
-.foundation-card{
+.foundation-card {
     border-radius: 20px;
     padding: 10px 10px 10px 10px;
     width: 200px;
@@ -241,15 +240,15 @@ nav ul {
     margin-top: 150px;
 }
 
-.foundation-card:hover{
+.foundation-card:hover {
     background-color: rgb(151, 76, 222);
 }
 
-.foundation-card p{
+.foundation-card p {
     padding-bottom: 10px;
 }
 
-.foundation-card a{
+.foundation-card a {
     color: rgba(232, 112, 232, 0.868);
     text-decoration: none;
 }
@@ -257,7 +256,7 @@ nav ul {
 
 /* contact us part */
 
-.contact-container{
+.contact-container {
     margin-top: 200px;
     display: flex;
     justify-content: center;
@@ -265,27 +264,27 @@ nav ul {
     gap: 150px;
 }
 
-.contact-container img{
+.contact-container img {
     width: 300px;
     height: 200px;
     border-radius: 100px;
 }
 
-form{
+form {
     text-align: center;
 }
 
-form h2{
+form h2 {
     padding-bottom: 10px;
 }
 
-.input-fields{
+.input-fields {
     display: flex;
     flex-direction: column;
     gap: 10px;
 }
 
-.input-fields input{
+.input-fields input {
     width: 300px;
     height: 20px;
     padding: 10px;
@@ -293,13 +292,13 @@ form h2{
     border-radius: 50px;
 }
 
-.input-fields textarea{
+.input-fields textarea {
     padding: 10px;
     border: none;
     border-radius: 20px;
 }
 
-.btn-message{
+.btn-message {
     background-color: rgb(74, 74, 196);
     padding: 10px 15px 10px 15px;
     font-size: 20px;
@@ -311,37 +310,158 @@ form h2{
 
 /* footer part */
 
-footer{
+footer {
     display: flex;
-    justify-content: center;    
+    justify-content: center;
     gap: 100px;
     padding: 150px 30px 150px 30px;
 }
 
-.footer-b-world{
+.footer-b-world {
     font-family: Arial, Helvetica, sans-serif;
     font-size: 30px;
-    padding-right: 50px;
     font-weight: 800;
     padding-bottom: 20px;
 }
 
-.footer-icons{
+.footer-icons {
     padding-top: 20px;
 }
 
-.com-sup{
+.com-sup {
     padding-bottom: 20px;
 }
 
-.com-sup-lists li{
+.com-sup-lists li {
     padding-bottom: 10px;
 }
 
-.footer-email{
+.footer-email {
     width: 300px;
     height: 20px;
     padding: 10px;
     border: none;
     border-radius: 50px;
+}
+
+
+@media screen and (max-width: 500px){
+
+    /* nav part */
+
+    .b-world{
+        margin-left: 10px;
+    }
+
+    /* hero part */
+
+    .hero {
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 30px;
+    }
+
+    .hero-text-btn{
+        text-align: center;
+    }
+
+    /* our clients part */
+
+    .client-logos{
+        display: grid;
+        grid-template-columns: repeat(2, 10px);
+    }
+
+    /* explore part */
+
+    .explore-sectors{
+        display: block;
+        gap: 20px;
+    }
+
+    /* helping blockchain part */
+
+    .help-block{
+        display: block;
+        text-align: center;
+    }
+
+    .help-head{
+        padding-bottom: 20px;
+    }
+
+    .help-box-parent{
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+    }
+
+    /* blockchain foundation part */
+
+    .foundation{
+        text-align: center;
+        padding-bottom: 20px;
+    }
+
+    .foundation-card-container{
+        display: flex;
+        flex-direction: column;
+        gap: 60px;
+    }
+
+    /* contact us part */
+
+    .contact-container{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        gap: 20px;
+    }
+
+    .input-fields{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 10px;
+    }
+
+    .input-fields input{
+        width: 150px;
+    }
+
+    /* footer part */
+
+    footer{
+        display: flex;
+        flex-direction: column-reverse;
+        gap: 50px;
+    }
+
+    .footer-logo-icons{
+        text-align: center;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .com-sup{
+        text-align: center;
+    }
+
+    .com-sup-lists li{
+        text-align: center;
+    }
+
+    .up-to-date{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .footer-email{
+        width: 200px;
+    }
+
 }
